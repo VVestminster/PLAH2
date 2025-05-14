@@ -26,7 +26,7 @@ public class Main {
         double c = 2.786;
         int d = 569;
         short e = -159;
-        char j = 27897;
+        short j = 27897;
         byte z = 67;
 
         System.out.println("float - " + a);
